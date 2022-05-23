@@ -1,4 +1,8 @@
----
+~~~jerardoaguinigacervantes
+
+01131986
+
+--
 title: About identity and access management with SAML single sign-on
 intro: 'If you centrally manage your users'' identities and applications with an identity provider (IdP), you can configure Security Assertion Markup Language (SAML) single sign-on (SSO) to protect your organization''s resources on {% data variables.product.prodname_dotcom %}.'
 redirect_from:
